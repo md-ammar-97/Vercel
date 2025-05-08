@@ -27,7 +27,7 @@ const projects = [
     description: "Contrasted Harry Potter and Friends using Excel and PowerBI to analyze characters, tones, and franchise impact. Built side-by-side dashboards for cross-series insights.",
     techStack: ["PowerBI", "Excel"],
     projectLink: "http://tiny.cc/AMR-Project-17",
-    imageUrl: "/assets/project_logo/Project_17.png"
+    imageUrl: "https://res.cloudinary.com/dav1ts03b/image/upload/v1746535993/Project_17_cj5qhr.webp"
   },
   {
     title: "AcademAI – AI Agents for Smarter Learning",
