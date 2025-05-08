@@ -60,7 +60,7 @@ const About = () => {
                     <p className="text-muted-foreground">Canada - Open Work Permit</p>
                     <p className="text-muted-foreground">Valid: June 2027</p>
                     <p className="text-muted-foreground">United States - B1/B2 Visa</p>
-                    <p className="text-muted-foreground">Valid: March 2023</p>
+                    <p className="text-muted-foreground">Valid: March 2034</p>
                   </div>
                 </li>
               </ul>
