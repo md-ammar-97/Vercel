@@ -13,7 +13,7 @@ import Resume from "./pages/Resume";
 import Contact from "./pages/Contact";
 import NotFound from "./pages/NotFound";
 import Layout from "./components/layout/Layout";
-
+// Dep
 // Import Vercel Analytics
 import { Analytics } from "@vercel/analytics/react";
 
