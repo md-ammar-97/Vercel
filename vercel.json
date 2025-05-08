@@ -1,8 +1,9 @@
 {
-  "rewrites": [
+  "redirects": [
     {
       "source": "/:match*",
-      "destination": "/index.html"
+      "destination": "/",
+      "permanent": false
     }
   ]
 }
