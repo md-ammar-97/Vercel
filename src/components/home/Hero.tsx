@@ -39,7 +39,7 @@ const Hero = () => {
           </h1>
           
           <p className="text-lg md:text-xl opacity-90 mb-8 fade-in delay-100">
-            Business Analyst | Strategy Consultant | Agentic AI Enthusiast
+            AI Product Manager | Business Analyst | Strategy Consultant | Agentic AI Enthusiast
           </p>
           
           <div className="flex flex-wrap justify-center gap-4 fade-in delay-200">
