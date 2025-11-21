@@ -62,10 +62,16 @@ const TimelineItem = ({
 const Timeline = ({ type }: { type: "experience" | "education" }) => {
   const experienceData = [
     {
+      year: "Aug 2025 - Present",
+      title: "Product Consultant",
+      company: "Axestrack",
+      description: "Identifying market needs and product-market fit while building AI-driven logistics and telematics solutions for yard, load, and truck operations across the USMCA market."
+    },
+    {
       year: "Oct 2024 - Present",
-      title: "Operations Consultant",
+      title: "Product Associate",
       company: "Invisible Technologies",
-      description: "Developed real-time dashboards, automated data pipelines, and enhanced AI model accuracy to optimize business processes and reporting efficiency."
+      description: "Developed protoypes of AI applications, real-time dashboards, automated data pipelines, and enhanced AI model accuracy to optimize business processes and reporting efficiency."
     },
     {
       year: "Jun 2023 - Dec 2024",
@@ -75,25 +81,25 @@ const Timeline = ({ type }: { type: "experience" | "education" }) => {
     },
     {
       year: "Jul 2023 - Sept 2024",
-      title: "Business Strategy Analyst",
+      title: "Chief Product Officer",
       company: "AmiColo (Startup)",
       description: "Co-founded a roommate-matching platform, applied clustering algorithms to improve profile matching, and secured seed funding to grow the business."
     },
     {
       year: "Sept 2023 - Jan 2024",
-      title: "Technical Project Coordinator",
+      title: "Product Coordinator",
       company: "Innovation Center – Concordia University",
-      description: "Developed AI-powered academic tools using Python and OpenAI, securing recognition among Canada's top AI products and pitching for funding."
+      description: "Developed AI-powered academic tools using Python, OpenAI, RAG & LangChain, securing recognition among Canada's top AI products and pitching for funding."
     },
     {
       year: "Sept 2022 - Jan 2023",
-      title: "Technical Project Coordinator",
+      title: "Product Coordinator",
       company: "Innovation Center – Concordia University",
       description: "Built a web platform and dashboards for food redistribution, reducing waste by 13% and securing pilot funding for the project."
     },
     {
       year: "Jun 2020 - Nov 2022",
-      title: "Business Systems Analyst",
+      title: "Business Analyst",
       company: "Sygnius Infotech Ventures",
       description: "Automated reporting and process mapping, leading to increased productivity and reduced errors in MRO systems."
     }
