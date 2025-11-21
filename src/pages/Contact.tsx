@@ -99,14 +99,18 @@ const Contact = () => {
                   <h3 className="font-medium">Phone</h3>
                   <div className="space-y-1">
                     <a href="tel:+15148194161" className="block text-muted-foreground hover:text-accent transition">
-                      +1 (514) 819-4161
+                      Canada: +1 (514) 819-4161
                     </a>
                     <a href="tel:+15145698694" className="block text-muted-foreground hover:text-accent transition">
-                      +1 (514) 569-8694
+                      Canada: +1 (514) 569-8694
+                    </a>
+                    <a href="tel:+15592137080" className="block text-muted-foreground hover:text-accent transition">
+                      United States: +1 (559) 213-7080
                     </a>
                     <a href="tel:+918800206651" className="block text-muted-foreground hover:text-accent transition">
-                      +91 8800206651
+                      India: +91 8800206651
                     </a>
+                    
                   </div>
                 </div>
               </div>
