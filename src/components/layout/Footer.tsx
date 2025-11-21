@@ -11,7 +11,7 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">Mohammad Ammar</h3>
             <p className="text-sm opacity-80">
-              Business & Operations Analyst | Strategy Consultant | Agentic AI Enthusiast
+              Product Manager | Business Analyst | Strategy Consultant | Agentic AI Enthusiast
             </p>
             <p className="text-sm mt-2 opacity-70">
               © {currentYear} All rights reserved.
@@ -56,13 +56,16 @@ const Footer = () => {
               <li className="text-sm opacity-80">
                 <span className="block">Phone:</span>
                 <a href="tel:+15148194161" className="block hover:opacity-100 transition">
-                  +1 (514) 819-4161
+                  Canada: +1 (514) 819-4161
                 </a>
                 <a href="tel:+15145698694" className="block hover:opacity-100 transition">
-                  +1 (514) 569-8694
+                  Canada: +1 (514) 569-8694
+                </a>
+                <a href="tel:+15592137080" className="block hover:opacity-100 transition">
+                  United States: +1 (559) 213-7080
                 </a>
                 <a href="tel:+918800206651" className="block hover:opacity-100 transition">
-                  +91 8800206651
+                  India: +91 8800206651
                 </a>
               </li>
               <li className="text-sm opacity-80">
