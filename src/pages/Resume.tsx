@@ -45,7 +45,7 @@ const Resume = () => {
               </Button>
               <Button asChild>
                 <a href="http://tiny.cc/Ammar-Resume-Analytics" target="_blank" rel="noopener noreferrer">
-                  📊 Resume – Business Analytics & Strategy Focus
+                  📊 Resume – Product Management & Business Analytics
                 </a>
               </Button>
             </div>
@@ -74,6 +74,23 @@ const Resume = () => {
             <h2 className="text-2xl font-semibold mb-6">Skills</h2>
             <div className="space-y-4">
               {/* Skills Content */}
+              <div>
+                <h3 className="font-medium mb-1">Gen AI Tools</h3>
+                <div className="flex flex-wrap gap-2">
+                  <span className="px-2 py-1 bg-accent/10 text-accent text-sm rounded-md">ChatGPT</span>
+                  <span className="px-2 py-1 bg-accent/10 text-accent text-sm rounded-md">Perplexity & Comet</span>
+                  <span className="px-2 py-1 bg-accent/10 text-accent text-sm rounded-md">Lovable AI</span>
+                  <span className="px-2 py-1 bg-accent/10 text-accent text-sm rounded-md">Cursor AI</span>
+                  <span className="px-2 py-1 bg-accent/10 text-accent text-sm rounded-md">Deepseek AI</span>
+                  <span className="px-2 py-1 bg-accent/10 text-accent text-sm rounded-md">Google Anitgravity</span>
+                  <span className="px-2 py-1 bg-accent/10 text-accent text-sm rounded-md">Model Context Protocol</span>
+                  <span className="px-2 py-1 bg-accent/10 text-accent text-sm rounded-md">Google AI Studio</span>
+                  <span className="px-2 py-1 bg-accent/10 text-accent text-sm rounded-md">Tableau AI</span>
+                  <span className="px-2 py-1 bg-accent/10 text-accent text-sm rounded-md">GitHub Copilot</span>
+                  <span className="px-2 py-1 bg-accent/10 text-accent text-sm rounded-md">Replit Agent</span>
+                </div>
+              </div>
+              
               <div>
                 <h3 className="font-medium mb-1">Programming Languages</h3>
                 <div className="flex flex-wrap gap-2">
@@ -129,23 +146,6 @@ const Resume = () => {
                   <span className="px-2 py-1 bg-accent/10 text-accent text-sm rounded-md">Capability Maturity Model</span>
                   <span className="px-2 py-1 bg-accent/10 text-accent text-sm rounded-md">Waterfall Model</span>
                   <span className="px-2 py-1 bg-accent/10 text-accent text-sm rounded-md">Robotic Process Automation (RPA)</span>
-                </div>
-              </div>
-
-              <div>
-                <h3 className="font-medium mb-1">Gen AI Tools</h3>
-                <div className="flex flex-wrap gap-2">
-                  <span className="px-2 py-1 bg-accent/10 text-accent text-sm rounded-md">ChatGPT</span>
-                  <span className="px-2 py-1 bg-accent/10 text-accent text-sm rounded-md">Perplexity AI</span>
-                  <span className="px-2 py-1 bg-accent/10 text-accent text-sm rounded-md">Lovable AI</span>
-                  <span className="px-2 py-1 bg-accent/10 text-accent text-sm rounded-md">Cursor AI</span>
-                  <span className="px-2 py-1 bg-accent/10 text-accent text-sm rounded-md">Deepseek AI</span>
-                  <span className="px-2 py-1 bg-accent/10 text-accent text-sm rounded-md">Cohere</span>
-                  <span className="px-2 py-1 bg-accent/10 text-accent text-sm rounded-md">Adept AI</span>
-                  <span className="px-2 py-1 bg-accent/10 text-accent text-sm rounded-md">Google Vertex AI</span>
-                  <span className="px-2 py-1 bg-accent/10 text-accent text-sm rounded-md">Tableau AI</span>
-                  <span className="px-2 py-1 bg-accent/10 text-accent text-sm rounded-md">GitHub Copilot</span>
-                  <span className="px-2 py-1 bg-accent/10 text-accent text-sm rounded-md">Replit</span>
                 </div>
               </div>
             </div>
