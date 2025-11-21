@@ -45,7 +45,7 @@ const Resume = () => {
               </Button>
               <Button asChild>
                 <a href="http://tiny.cc/Ammar-Resume-Analytics" target="_blank" rel="noopener noreferrer">
-                  📊 Resume – Product Management & Business Analytics
+                  📊 Resume – Product & Analytics Focus
                 </a>
               </Button>
             </div>
